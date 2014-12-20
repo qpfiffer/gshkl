@@ -12,8 +12,12 @@ badly in way too many situations, but I don't like any dependencies, so.
 
 # Building
 
-Do the standard `./configure && make && make install` dance. Babbys first
-autotools.
+```Bash
+./autogen.sh
+./configure
+make
+make install
+```
 
 # Tests
 
