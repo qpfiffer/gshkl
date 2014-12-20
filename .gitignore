@@ -11,7 +11,6 @@ INSTALL
 install-sh
 missing
 Makefile
-Makefile.in
 config.log
 config.status
 libtool
