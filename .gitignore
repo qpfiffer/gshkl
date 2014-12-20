@@ -1,0 +1,5 @@
+*.o
+*.swp
+libgshkl.so
+greshunkel_test
+*.swo
