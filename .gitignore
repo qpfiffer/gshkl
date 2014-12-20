@@ -3,3 +3,16 @@
 libgshkl.so
 greshunkel_test
 *.swo
+aclocal.m4
+autom4te.cache/*
+compile
+depcomp
+INSTALL
+install-sh
+missing
+Makefile
+Makefile.in
+config.log
+config.status
+libtool
+.deps/*
